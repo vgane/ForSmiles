@@ -1,0 +1,2 @@
+# ForSmiles
+A website to Gamify Volunteering and promote volunteering. User is able to make an account, choose a volunteering event, invite friends to go, review the experience and the Non-profit, see past user volunteer activities, and earn stars from accumulating volunteer hours and earn gift cards with participating companies. Technology used: Java, Java Servlets, MySQL, HTML, Javascript, Google Maps API, CSS, and Bootstrap!
